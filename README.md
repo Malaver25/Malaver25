@@ -21,7 +21,7 @@
 #### **Herramientas & Cloud**
 `Git` • `Docker` • `VS Code`
 
----
+--- 
 
 ### 💻 Proyectos Destacados
 Aquí tienes algunos de los proyectos de los que me siento más orgulloso/a:
