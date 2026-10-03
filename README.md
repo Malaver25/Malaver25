@@ -39,7 +39,7 @@ Aquí tienes algunos de los proyectos de los que me siento más orgulloso/a:
 ---
 
 ### 📜 Certificaciones
-* 🎓 **Certificado de ingles nivel avanzado 
+* 🎓 **Certificado de ingles nivel avanzado**
 
 ---
 
