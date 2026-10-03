@@ -26,12 +26,12 @@
 ### 💻 Proyectos Destacados
 Aquí tienes algunos de los proyectos de los que me siento más orgulloso/a:
 
-1. **[Nombre del Proyecto 1]**  
+1. **FACTURACION NEXTJS**  
    * **Descripción:** Plataforma de facturación automatica.
    * **Tecnologías:** `NextJS y Typescript`
    * **Enlaces:** https://github.com/CodectaFrontend3/Facturacion_next.git
 
-2. **[Nombre del Proyecto 2]**  
+2. **J&P Medic backend**  
    * **Descripción:** Backend de plataforma medica.
    * **Tecnologías:** ExpressJS, PostMan, MySQL
    * **Enlaces:** https://github.com/Frontenduno/Backend-Citas-Medicas.git
